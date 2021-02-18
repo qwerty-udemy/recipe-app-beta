@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "11102040819",
+    "project_id": "final-year-project-nitt-dsn",
+    "storage_bucket": "final-year-project-nitt-dsn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11102040819:android:c8135f37a19fd43fffbd86",
+        "android_client_info": {
+          "package_name": "com.example.final_year_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "11102040819-omr9qr6efb4t2isdilitil1meu52lb02.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.final_year_project",
+            "certificate_hash": "4a347e5da9c47b2882802d5db3336043980ac7f9"
+          }
+        },
+        {
+          "client_id": "11102040819-j47lqrcj017d9bf9ushu4djb71j8ipug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-6BA-fE6qXfTD5DAlniuyky3j3_Ezw8A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "11102040819-j47lqrcj017d9bf9ushu4djb71j8ipug.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
